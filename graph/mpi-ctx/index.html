@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- ENCODING -->
+        <meta charset="UTF-8">
+        <!-- PAGE INFO -->
+        <title>Network Graph :: BSc Thesis by Donatus Herre</title>
+        <!-- SEO -->
+        <meta name="robots" content="index, nofollow">
+        <meta name="description" content="network graph of institutes and publication data bases">
+        <meta name="keywords" content="Academia,Thesis,Digital Humanities,Network Graph">
+        <!-- FAVICON -->
+        <link rel="shortcut icon" href="../../../assets/ico/favicon.ico">
+        <link rel="icon" type="image/png" sizes="32x32" href="../../../assets/ico/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="../../../assets/ico/favicon-16x16.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="../../../assets/ico/apple-touch-icon.png">
+        <!-- MOBILE -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="theme-color" content="#ffffff">
+        <link rel="manifest" href="../../../assets/ico/site.webmanifest">
+        <link rel="mask-icon" href="../../../assets/ico/safari-pinned-tab.svg" color="#2f3f44">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-config" content="../../../assets/ico/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+        <!-- STYLE -->
+        <link rel="stylesheet" href="../../assets/css/graph.css" type="text/css" />
+        <link rel="stylesheet" href="../../../assets/css/main.css" type="text/css">
+        <!-- SCRIPTS -->
+        <script type="text/javascript"  src="../../vendor/sigma/sigma.min.js" charset="utf-8"></script>
+        <script type="text/javascript"  src="../../vendor/sigma/sigma.parsers.json.min.js" charset="utf-8"></script>
+    </head>
+    <body>
+        <div id="page">
+        <div id="header">
+        <pre>BSc Thesis by Donatus Herre
+
+    Network Graph
+
+
+--&gt;  MPIs, children and contexts</pre></div>
+        <div id="container"></div>
+        </div>
+        <script>
+        sigma.parsers.json('../../data/mpis-ctx.json', {
+            container: 'container',
+            settings: {
+                scalingMode: "outside",
+                drawLabels: true,
+                defaultLabelSize: 10,
+                labelThreshold: 10
+            }
+        });
+        </script>
+    </body>
+</html>
