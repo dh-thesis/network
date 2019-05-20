@@ -26,8 +26,8 @@
         <link rel="stylesheet" href="../../assets/css/graph.css" type="text/css" />
         <link rel="stylesheet" href="../../../assets/css/main.css" type="text/css">
         <!-- SCRIPTS -->
-        <script type="text/javascript"  src="../../vendor/sigma/sigma.min.js" charset="utf-8"></script>
-        <script type="text/javascript"  src="../../vendor/sigma/sigma.parsers.json.min.js" charset="utf-8"></script>
+        <script type="text/javascript"  src="../../vendor/sigma/sigma.min.js"></script>
+        <script type="text/javascript"  src="../../vendor/sigma/sigma.parsers.json.min.js"></script>
     </head>
     <body>
         <div id="page">
@@ -40,17 +40,6 @@
 --&gt;  MPIs, children, contexts and associated persons</pre></div>
         <div id="container"></div>
         </div>
-        <script>
-        sigma.parsers.json('../../data/mpis-pers.json', {
-            container: 'container',
-            settings: {
-                scalingMode: "outside",
-                drawLabels: true,
-                defaultLabelSize: 10,
-                labelThreshold: 100,
-                maxNodeSize: 2
-            }
-        });
-        </script>
+        <script type="text/javascript"  src="../../assets/js/mpis-pers.js"></script>
     </body>
 </html>
