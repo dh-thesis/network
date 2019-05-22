@@ -5,6 +5,6 @@ sigma.parsers.json('../../data/mpis-coop.json', {
         drawLabels: true,
         defaultLabelSize: 10,
         labelThreshold: 5,
-        maxNodeSize: 2
+        maxNodeSize: 4
     }
 });
