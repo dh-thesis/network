@@ -1,0 +1,755 @@
+{
+  "nodes": [
+    {
+      "label": "Particle Physics",
+      "x": 80.69715881347656,
+      "y": 24.186180114746094,
+      "id": "tag_25",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Cultural Studies",
+      "x": -52.83274841308594,
+      "y": -179.2932586669922,
+      "id": "tag_10",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "material-and-technology",
+      "x": 100.88600158691406,
+      "y": 122.23738861083984,
+      "id": "category_5",
+      "attributes": {},
+      "color": "rgb(0,204,0)",
+      "size": 10.0
+    },
+    {
+      "label": "Material Sciences",
+      "x": 112.95655822753906,
+      "y": 84.22783660888672,
+      "id": "tag_20",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Complex Systems",
+      "x": 59.36507797241211,
+      "y": 100.13964080810547,
+      "id": "tag_8",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Jurisprudence",
+      "x": -103.531005859375,
+      "y": -158.51280212402344,
+      "id": "tag_18",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Linguistics",
+      "x": -27.772727966308594,
+      "y": -117.12651824951172,
+      "id": "tag_19",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Medicine",
+      "x": 3.229407787322998,
+      "y": 30.44954490661621,
+      "id": "tag_22",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "biology-and-medicine",
+      "x": -23.55731773376465,
+      "y": -32.50372314453125,
+      "id": "category_2",
+      "attributes": {},
+      "color": "rgb(0,204,0)",
+      "size": 10.0
+    },
+    {
+      "label": "Immunobiology",
+      "x": -16.338945388793945,
+      "y": 49.17947006225586,
+      "id": "tag_16",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "environment-and-climate",
+      "x": -94.0184555053711,
+      "y": 24.017417907714844,
+      "id": "category_3",
+      "attributes": {},
+      "color": "rgb(0,204,0)",
+      "size": 10.0
+    },
+    {
+      "label": "Cognitive Science",
+      "x": -49.47333908081055,
+      "y": -98.69827270507812,
+      "id": "tag_7",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Evolutionary Biology",
+      "x": 0.9814859628677368,
+      "y": 0.4966507852077484,
+      "id": "tag_14",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Solid State Research",
+      "x": 67.78466033935547,
+      "y": 127.27481842041016,
+      "id": "tag_31",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Climate Research",
+      "x": -94.06379699707031,
+      "y": -12.896330833435059,
+      "id": "tag_6",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Earth Sciences",
+      "x": -68.52406311035156,
+      "y": 3.5949487686157227,
+      "id": "tag_12",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Plasma Physics",
+      "x": 29.83334732055664,
+      "y": 96.09550476074219,
+      "id": "tag_28",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Astronomy",
+      "x": 99.90357971191406,
+      "y": 44.540016174316406,
+      "id": "tag_1",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Structural Biology",
+      "x": 51.29416275024414,
+      "y": -24.85291290283203,
+      "id": "tag_32",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Microbiology",
+      "x": -45.68632125854492,
+      "y": -65.9328384399414,
+      "id": "tag_23",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Developmental Biology",
+      "x": 25.996341705322266,
+      "y": -10.53494930267334,
+      "id": "tag_11",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Genetics",
+      "x": 52.0827522277832,
+      "y": 3.885223150253296,
+      "id": "tag_15",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Computer Science",
+      "x": 86.33100128173828,
+      "y": 93.32324981689453,
+      "id": "tag_9",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Behavioural Biology",
+      "x": -16.87023162841797,
+      "y": -76.65971374511719,
+      "id": "tag_3",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Plant Research",
+      "x": -63.00293731689453,
+      "y": -28.966890335083008,
+      "id": "tag_27",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Astrophysics",
+      "x": 7.620090007781982,
+      "y": 79.81140899658203,
+      "id": "tag_2",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Ecology",
+      "x": 10.49399185180664,
+      "y": -68.72332000732422,
+      "id": "tag_13",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Mathematics",
+      "x": -83.90104675292969,
+      "y": -182.7701873779297,
+      "id": "tag_21",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Physiology",
+      "x": -72.5726318359375,
+      "y": -54.95441818237305,
+      "id": "tag_26",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Cell Biology",
+      "x": 23.148569107055664,
+      "y": -36.90254592895508,
+      "id": "tag_4",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Social and Behavioural Sciences",
+      "x": -78.02778625488281,
+      "y": -97.58136749267578,
+      "id": "tag_30",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Quantum Physics",
+      "x": 79.0013198852539,
+      "y": 63.37853240966797,
+      "id": "tag_29",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Chemistry",
+      "x": -47.465423583984375,
+      "y": 33.42121124267578,
+      "id": "tag_5",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "astronomy-and-astrophysics",
+      "x": 43.007484436035156,
+      "y": 49.58394241333008,
+      "id": "category_1",
+      "attributes": {},
+      "color": "rgb(0,204,0)",
+      "size": 10.0
+    },
+    {
+      "label": "Infection Biology",
+      "x": -21.556425094604492,
+      "y": 16.156606674194336,
+      "id": "tag_17",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "Neurosciences",
+      "x": 25.494842529296875,
+      "y": 15.68133544921875,
+      "id": "tag_24",
+      "attributes": {},
+      "color": "rgb(153,0,255)",
+      "size": 10.0
+    },
+    {
+      "label": "humanities",
+      "x": -68.8866195678711,
+      "y": -146.45852661132812,
+      "id": "category_4",
+      "attributes": {},
+      "color": "rgb(0,204,0)",
+      "size": 10.0
+    }
+  ],
+  "edges": [
+    {
+      "source": "tag_4",
+      "target": "category_2",
+      "id": "20",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_4",
+      "target": "category_1",
+      "id": "2",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_24",
+      "target": "category_2",
+      "id": "34",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_1",
+      "target": "category_1",
+      "id": "0",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_21",
+      "target": "category_4",
+      "id": "46",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_20",
+      "target": "category_1",
+      "id": "11",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_12",
+      "target": "category_2",
+      "id": "25",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_19",
+      "target": "category_4",
+      "id": "45",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_11",
+      "target": "category_1",
+      "id": "6",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_11",
+      "target": "category_2",
+      "id": "24",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_8",
+      "target": "category_1",
+      "id": "4",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_6",
+      "target": "category_3",
+      "id": "40",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_18",
+      "target": "category_4",
+      "id": "44",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_31",
+      "target": "category_5",
+      "id": "51",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_16",
+      "target": "category_1",
+      "id": "9",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_25",
+      "target": "category_1",
+      "id": "14",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_14",
+      "target": "category_2",
+      "id": "27",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_19",
+      "target": "category_2",
+      "id": "31",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_9",
+      "target": "category_1",
+      "id": "5",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_7",
+      "target": "category_2",
+      "id": "23",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_22",
+      "target": "category_1",
+      "id": "12",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_28",
+      "target": "category_1",
+      "id": "15",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_26",
+      "target": "category_2",
+      "id": "35",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_31",
+      "target": "category_1",
+      "id": "17",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_17",
+      "target": "category_2",
+      "id": "30",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_22",
+      "target": "category_2",
+      "id": "32",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_6",
+      "target": "category_2",
+      "id": "22",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_15",
+      "target": "category_2",
+      "id": "28",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_2",
+      "target": "category_1",
+      "id": "1",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_13",
+      "target": "category_2",
+      "id": "26",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_7",
+      "target": "category_4",
+      "id": "42",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_20",
+      "target": "category_5",
+      "id": "50",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_3",
+      "target": "category_2",
+      "id": "19",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_24",
+      "target": "category_1",
+      "id": "13",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_14",
+      "target": "category_1",
+      "id": "7",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_27",
+      "target": "category_2",
+      "id": "36",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_23",
+      "target": "category_2",
+      "id": "33",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_16",
+      "target": "category_2",
+      "id": "29",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_10",
+      "target": "category_4",
+      "id": "43",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_9",
+      "target": "category_5",
+      "id": "49",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_32",
+      "target": "category_2",
+      "id": "38",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_5",
+      "target": "category_1",
+      "id": "3",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_12",
+      "target": "category_3",
+      "id": "41",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_30",
+      "target": "category_4",
+      "id": "47",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_29",
+      "target": "category_1",
+      "id": "16",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_5",
+      "target": "category_3",
+      "id": "39",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_5",
+      "target": "category_2",
+      "id": "21",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_32",
+      "target": "category_1",
+      "id": "18",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_17",
+      "target": "category_1",
+      "id": "10",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_15",
+      "target": "category_1",
+      "id": "8",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_8",
+      "target": "category_5",
+      "id": "48",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    },
+    {
+      "source": "tag_30",
+      "target": "category_2",
+      "id": "37",
+      "attributes": {},
+      "color": "rgb(255,102,51)",
+      "size": 1.0
+    }
+  ]
+}
