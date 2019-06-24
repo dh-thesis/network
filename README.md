@@ -1,1 +1,3 @@
 # Network Graph of Entites in [MPG.PuRe](https://pure.mpg.de)
+
+To create the visualizations the graph data found at [`../pubdata/data/graph/`](https://github.com/dh-thesis/pubdata/tree/master/data/graph) was processed with [Gephi](https://github.com/gephi/gephi) using [Force Atlas 2](https://github.com/gephi/gephi/wiki/Force-Atlas-2) and [Fruchterman Reingold](https://github.com/gephi/gephi/wiki/Fruchterman-Reingold) algorithms. The result was exported to [`json`-based graph files](https://github.com/dh-thesis/network/tree/master/data), which are rendered for [`html`](https://dh-thesis.github.io/network/) with the help of the `js` library [sigma.js](https://github.com/jacomyal/sigma.js).
