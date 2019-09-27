@@ -102,13 +102,12 @@ V(net.cats.tags)$size <- deg # *3
 plot(net.cats.tags,
      edge.color="orange",
      vertex.color=ifelse(V(net.cats.tags)$IsCategory, "green", "tomato"),
-     # vertex.label = ifelse(V(net.cats.tags)$IsCategory, V(net.cats.tags)$Label, NA),
-     vertex.label = V(net.cats.tags)$Label,
+     vertex.label = ifelse(V(net.cats.tags)$IsCategory, V(net.cats.tags)$Label, NA),
+     # vertex.label = V(net.cats.tags)$Label,
      vertex.label.family="Helvetica",
      # vertex.label.cex=0.75,
      vertex.label.cex=ifelse(V(net.cats.tags)$Type, 1, 0.75),
      vertex.size=ifelse(V(net.cats.tags)$IsCategory, deg, 7.5),
-     # vertex.size=ifelse(V(net.cats.tags)$IsCategory, deg, 9),
      vertex.label.color="black",
      vertex.frame.color="white")
 
