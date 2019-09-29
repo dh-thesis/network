@@ -1,4 +1,5 @@
 source("scripts/utils.r")
+source("scripts/paths.r")
 
 library(igraph)
 library(ggraph)
@@ -8,22 +9,6 @@ library(ggraph)
 
 ## clean environment
 # rm(list = ls())
-
-fp.graph <- '../data/graph/'
-
-fp.tags_nodes <- paste(fp.graph, 'mpis--tags_nodes.csv', sep="")
-fp.cats_nodes <- paste(fp.graph, 'mpis--cats_nodes.csv', sep="")
-fp.cats_tags_edges <- paste(fp.graph, 'mpis--cats-tags_edges.csv', sep="")
-
-fp.ous_nodes <- paste(fp.graph, 'pure--ous_nodes.csv', sep="")
-fp.ous_edges <- paste(fp.graph, 'pure--ous_ous_edges.csv', sep="")
-
-fp.mpis_nodes <- paste(fp.graph, 'mpis--ous_nodes.csv', sep="")
-fp.mpis_nodes.tree <- paste(fp.graph, 'mpis--ous_nodes--tree-full.csv', sep="")
-fp.mpis_edges <- paste(fp.graph, 'mpis--ous_ous_edges--tree.csv', sep="")
-
-fp.mpis_cats_edges <- paste(fp.graph, 'mpis--ous_cat_edges.csv', sep="")
-fp.mpis_tags_edges <- paste(fp.graph, 'mpis--ous_tags_edges.csv', sep="")
 
 ############################
 ### Organizational Units ###
